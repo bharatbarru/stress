@@ -1,4 +1,4 @@
 flask
 opencv-python
 fer
-pip freeze > requirements.txt
+gunicorn
